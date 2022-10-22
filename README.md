@@ -11,7 +11,7 @@
         npm add react-notion
         
         Done
-        ```bash
+        ```
         
     3. 노션 페이지 정보 얻기
         1. 공개 할 노션의 페이지 ID
